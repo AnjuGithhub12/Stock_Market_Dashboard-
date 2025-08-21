@@ -1,3 +1,4 @@
+![power_bi_dahsboard_final1_page-0001](https://github.com/user-attachments/assets/0bfc9755-e877-456a-8860-f9e270cbcb7a)
 # 📊 Stock Market Dashboard Using PowerBI  
 
 This project is an **interactive Power BI dashboard** designed to analyze and compare the performance of three selected companies using stock market data. It provides meaningful insights into daily stock trends by leveraging DAX queries for custom calculations and visualizations.  
